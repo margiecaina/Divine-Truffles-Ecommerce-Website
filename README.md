@@ -14,7 +14,7 @@ Divine Truffles is a school project showcasing an eCommerce website for gourmet 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/divine-truffles-ecommerce-website.git
+   git clone https://github.com/margiecaina/divine-truffles-ecommerce-website.git
    ```
 2. Navigate to the project folder:
    ```bash
